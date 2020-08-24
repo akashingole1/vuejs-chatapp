@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+# Feel free to give it a star
+# Cheers Akash Ingole
+
 ## Build Setup
 
 ``` bash
